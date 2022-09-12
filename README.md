@@ -1,9 +1,8 @@
 ### Here is what i am working on 👋
 - 🔭 I’m currently working on ...sbmtechs
-- 🌱 I’m currently learning ...flutter 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...flutter,python
 - 🤔 I’m looking for help with ...flutter
-- 💬 Ask me about ...
+- 💬 Ask me about ...anythink about flutter
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...she/her
 
